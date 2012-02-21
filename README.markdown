@@ -1,0 +1,1 @@
+Various PHP classes I've built for myself or clients. They haven't been tested in this configuration, so some work may be required. Kept here mostly for easy access.
